@@ -12,3 +12,4 @@ Se recomienda entonces:
        	-Consultar las tablas de errores de muestreo, publicadas en el sitio de la EPH para dimensionar el error muestral asociado a la estimación que se analice. 
 	-Realizar análisis de tendencias.
 	-Utilizar la base general o agrupamientos de aglomerados a fin de incrementar el número de casos muestrales. Tener en cuenta que la determinación del número mínimo de casos muestrales válido para el cálculo de estimaciones dependerá del tipo de análisis particular realizado.
+
